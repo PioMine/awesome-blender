@@ -176,7 +176,7 @@
 
 ### 🧊Modeling [^](#table)
 
--   [MACHIN3tools](https://gumroad.com/l/MACHIN3tools) : is a free, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [![market]](https://blendermarket.com/products/MACHIN3tools)
+-   [MACHIN3tools](https://gumroad.com/l/MACHIN3tools) [$] : is an previously free, now $5+, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [![market]](https://blendermarket.com/products/MACHIN3tools)
 -   [QBlocker](https://qblockerdocs.readthedocs.io/) : is an interactive object creation tool for Blender.
 -   [fspy](https://fspy.io/) : is an open-source camera matching app, extremely useful for modeling directly from a reference image. [(blender addon)](https://github.com/stuffmatic/fSpy-Blender)
 -   [PolyQuilt](https://github.com/sakana3/PolyQuilt) : is provides a few functions in edit mode like creating faces, knife tool, fan, edge-loops, etc. It does this with only the left-mouse-button. So no menu’s, no shortcuts. [[more info]](https://www.youtube.com/watch?v=VKLPHh3CYCU)
